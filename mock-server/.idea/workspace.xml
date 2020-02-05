@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="881293dd-57ae-42eb-a433-1fe680c916ea" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mock-server" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RbMGuwC33YJwr5DO5nWlBOtEAw" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/WWW/MEIZU/mock-server" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="881293dd-57ae-42eb-a433-1fe680c916ea" name="Default Changelist" comment="" />
+      <created>1569931250830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569931250830</updated>
+      <workItem from="1569931255451" duration="1845000" />
+      <workItem from="1569990638438" duration="4516000" />
+      <workItem from="1570078103291" duration="193000" />
+      <workItem from="1570078365114" duration="1838000" />
+      <workItem from="1570165378653" duration="987000" />
+      <workItem from="1570166900314" duration="8000" />
+      <workItem from="1570166973123" duration="618000" />
+      <workItem from="1570239714752" duration="12000" />
+      <workItem from="1570239740429" duration="2201000" />
+      <workItem from="1570361041370" duration="27000" />
+      <workItem from="1570361081124" duration="643000" />
+      <workItem from="1570631068269" duration="36000" />
+      <workItem from="1580878160472" duration="129000" />
+      <workItem from="1580878309708" duration="650000" />
+      <workItem from="1580879009455" duration="231000" />
+      <workItem from="1580879256718" duration="389000" />
+      <workItem from="1580880122637" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
